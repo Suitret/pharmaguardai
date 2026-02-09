@@ -1,0 +1,27 @@
+[
+  {
+    "drug": "ibuprofen",
+    "risk": "HIGH",
+    "reason": "Avoid in pregnancy. Risk of miscarriage and heart defects."
+  },
+  {
+    "drug": "diclofenac",
+    "risk": "HIGH",
+    "reason": "NSAIDs harm fetal development. Do not use."
+  },
+  {
+    "drug": "aspirin",
+    "risk": "CAUTION",
+    "reason": "Low dose acceptable with doctor supervision only."
+  },
+  {
+    "drug": "paracetamol",
+    "risk": "SAFE",
+    "reason": "Generally safe in recommended doses."
+  },
+  {
+    "drug": "amoxicillin",
+    "risk": "SAFE",
+    "reason": "Safe when prescribed by doctor."
+  }
+]

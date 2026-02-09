@@ -1,0 +1,8 @@
+{
+  "paracetamol": ["paracetamol", "acetaminophen", "panadol", "tylenol"],
+  "ibuprofen": ["ibuprofen", "brufen", "advil", "nurofen"],
+  "diclofenac": ["diclofenac", "voltaren"],
+  "aspirin": ["aspirin", "acetylsalicylic acid"],
+  "amoxicillin": ["amoxicillin", "amoxil"],
+  "metronidazole": ["metronidazole", "flagyl"]
+}

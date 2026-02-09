@@ -1,0 +1,26 @@
+[
+  {
+    "drug_a": "ibuprofen",
+    "drug_b": "diclofenac",
+    "risk": "HIGH",
+    "reason": "Both are NSAIDs. Combining increases stomach bleeding risk."
+  },
+  {
+    "drug_a": "paracetamol",
+    "drug_b": "ibuprofen",
+    "risk": "SAFE",
+    "reason": "No known interaction."
+  },
+  {
+    "drug_a": "amoxicillin",
+    "drug_b": "metronidazole",
+    "risk": "CAUTION",
+    "reason": "Both are antibiotics. Monitor for side effects."
+  },
+  {
+    "drug_a": "aspirin",
+    "drug_b": "ibuprofen",
+    "risk": "CAUTION",
+    "reason": "Both thin blood. Avoid combining without medical advice."
+  }
+]
